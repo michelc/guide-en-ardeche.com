@@ -1,0 +1,294 @@
+/*
+ * (c) guide-en-ardeche.com
+ *
+ * Inspired by:
+ * - Hyde (@mdo) - https://github.com/poole/hyde
+ * - Strata (@n33co) - https://html5up.net
+ */
+
+
+/*
+ * Body resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+}
+@media (min-width: 64rem) {
+  html {
+    font-size: 20px;
+  }
+}
+
+body {
+  color: #454441;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: blue;
+  text-decoration: none;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  margin-bottom: .5rem;
+  font-weight: normal;
+  line-height: 1.25;
+  color: #D35400;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 1.25rem;
+  color: white;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Lists */
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-left: 20px;
+}
+
+
+/*
+ * Sidebar (ie Header as mobile first)
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.sidebar {
+  text-align: center;
+  padding: 2rem .75rem;
+  color: white;
+  background-color: #202020;
+  background-image: url("./../images/bg.jpg");
+  background-position: bottom;
+  background-size: auto 100%;
+}
+@media (min-width: 64rem) {
+  .sidebar {
+    background-image: url("./../images/antraigues.jpg");
+    background-size: 100% auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 20rem;
+    padding: 2rem 1.5rem 2rem 1rem;
+    text-align: right;
+  }
+}
+
+/* Sidebar effects */
+.sidebar a {
+  color: white;
+}
+.sidebar b {
+  color: white;
+}
+.sidebar .guide {
+  border-radius: 50%;
+  width: 7.5rem;
+}
+
+
+/*
+ * Mobile First Grid
+ *
+ * By Adam kaplan - http://www.adamkaplan.me/grid/
+ */
+
+.column {
+  margin-bottom: 1.5rem;
+  padding-right: 1rem;
+}
+@media (min-width: 48em) {
+  .column {
+    float: left;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 1.5rem;
+    width: 14.285%;
+  }
+  .column.half { width: 50%; }
+  .column.half p { font-size: 0.85rem; }
+}
+
+/* Clearfix by Nicolas Gallagher */
+.clearfix:before, .row:before,
+.clearfix:after, .row:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after, .row:after { clear: both; }
+.clearfix, .row { *zoom: 1; }
+
+
+/*
+ * Container
+ *
+ * Center the page content.
+ */
+
+.content {
+  max-width: 38rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+@media (min-width: 64rem) {
+  .content, .copyright {
+    max-width: 38rem;
+    margin-left: 23rem;
+    margin-right: 2rem;
+  }
+}
+
+
+/*
+ * Sections
+ *
+ * Separate content sections.
+ */
+
+section {
+  margin: 2rem 0;
+}
+
+section b {
+  color: black;
+}
+
+
+/*
+ * Photo gallery
+ *
+ */
+
+#photos img {
+  border-radius: 7px;
+  height: 100%;
+  width: 100%;
+}
+
+#photos p {
+  padding: 0;
+}
+
+.aide p { display: none; }
+@media (min-width: 48em) {
+  #photos img {
+    cursor: pointer;
+  }
+  .aide p {
+    display: block;
+    font-style: italic;
+  }
+}
+
+
+/*
+ * Popix
+ *
+ */
+#popx_overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#popx_modal {
+  display: none;
+  width: auto;
+  height: auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  padding: 0;
+  border: white 7px solid;
+  transform: translate(-50%, -55%);
+  background-color: white;
+  border-radius: 7px;
+  text-align: center;
+  z-index: 11; /* 1 higher than the overlay layer */
+}
+
+#popx_modal p {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/*
+ * Custom type
+ */
+
+@media (max-width: 35rem) {
+  h2 br { display: none; }
+}
+
+.button a {
+  color: white;
+  background-color: blue;
+  padding: .5rem 1rem;
+}
+
+#contacts .column {
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
+}
+
+#photos .half p {
+  line-height: 1.25;
+}
