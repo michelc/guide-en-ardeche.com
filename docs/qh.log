@@ -1,0 +1,31 @@
+QuickHtml ..
+---
+date: 23/10/2016 14:22:10
+src: C:\MVC\guide-en-ardeche.com\src
+docs: C:\MVC\guide-en-ardeche.com\docs
+---
+rmdir: /*.*
+mkdir: /
+ copy: /CNAME
+WRITE: /index.md
+touch: /qh.log
+ copy: /robots.txt
+mkdir: /css
+ copy: /css/style.css
+mkdir: /images
+ copy: /images/antraigues.jpg
+ copy: /images/bg.jpg
+ copy: /images/guide-nicole.png
+mkdir: /images/fulls
+ copy: /images/fulls/gorges-ardeche.jpg
+ copy: /images/fulls/grotte-chauvet.jpg
+ copy: /images/fulls/mont-gerbier-jonc.jpg
+ copy: /images/fulls/vallon-pont-arc.jpg
+mkdir: /images/thumbs
+ copy: /images/thumbs/gorges-ardeche.jpg
+ copy: /images/thumbs/grotte-chauvet.jpg
+ copy: /images/thumbs/mont-gerbier-jonc.jpg
+ copy: /images/thumbs/vallon-pont-arc.jpg
+mkdir: /js
+ copy: /js/popix.js
+WRITE: /sitemap.md
