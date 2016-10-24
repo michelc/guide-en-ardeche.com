@@ -1,13 +1,13 @@
 QuickHtml ..
 ---
-date: 23/10/2016 14:22:10
-src: C:\MVC\guide-en-ardeche.com\src
-docs: C:\MVC\guide-en-ardeche.com\docs
+date: 24/10/2016 12:36:23
+src: E:\MVC\guide-en-ardeche.com\src
+docs: E:\MVC\guide-en-ardeche.com\docs
 ---
 rmdir: /*.*
 mkdir: /
  copy: /CNAME
-WRITE: /index.md
+write: /index.md
 touch: /qh.log
  copy: /robots.txt
 mkdir: /css
@@ -28,4 +28,6 @@ mkdir: /images/thumbs
  copy: /images/thumbs/vallon-pont-arc.jpg
 mkdir: /js
  copy: /js/popix.js
-WRITE: /sitemap.md
+write: /sitemap.md
+---
+Site built in 0 seconds 
