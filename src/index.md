@@ -1,3 +1,6 @@
+---
+indextitle: <a href="m&#x61;ilto:&#103;.ni&#99;ole&#64;gm&#x61;il&#46;&#x63;om">&#103;.ni&#99;ole&#64;gm&#x61;il&#46;&#x63;om</a>
+---
 <section>
 
 ## L'Ardèche, un territoire authentique<br>et des lieux d'exception à découvrir.
@@ -127,7 +130,7 @@ visites que je propose.
   </div>
   <div class="column half">
 
-## [&#103;.ni&#99;ole&#64;gm&#x61;il&#46;&#x63;om](m&#x61;ilto:&#103;.ni&#99;ole&#64;gm&#x61;il&#46;&#x63;om)
+## {{ indextitle }}
 
   </div>
 </div>
