@@ -95,10 +95,10 @@ de partage et d'échange, tout en simplicité, bonne humeur et sourires !
 Guide diplomée mais avant tout ardéchoise, j'espère vous faire partager ma
 passion pour mon "pays" aux travers des circuits que j'organise.
 
-* La route panoramique des Gorges de l'Ardèche.
-* La montagne ardéchoise et le Mont Gerbier de Jonc.
-* Les nombreux villages de caractères.
-* La région des Vans et le Bois de Païolive.
+* La route panoramique des Gorges de l'Ardèche
+* La montagne ardéchoise et le Mont Gerbier de Jonc
+* Vogüé, un village de caractère parmi les plus beaux de France
+* Villeneuve-de-Berg, une Bastide Royale ardéchoise
 
 Si vous avez prévu de visiter La Caverne du Pont d'Arc, je vous conseille
 particulièrement de compléter votre journée par une **(re)découverte des Gorges
