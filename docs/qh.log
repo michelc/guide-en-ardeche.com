@@ -1,12 +1,13 @@
 QuickHtml ..
 ---
-date: 03/05/2018 16:03:16
+date: 03/05/2018 16:08:46
 src: E:\MVC\guide-en-ardeche.com\src
 docs: E:\MVC\guide-en-ardeche.com\docs
 ---
 rmdir: /*.*
   dir: /*.*
 mkdir: /
+ copy: /CNAME
 write: /index.md
 touch: /qh.log
 write: /robots.md
@@ -30,4 +31,4 @@ mkdir: /js
  copy: /js/popix.js
 write: /sitemap.md
 ---
-Site built in 0,73 seconds 
+Site built in 0,22 seconds 
