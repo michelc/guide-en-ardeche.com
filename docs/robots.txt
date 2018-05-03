@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://guide-en-ardeche.com/sitemap.xml
+Sitemap: https://guide-en-ardeche.com/sitemap.xml
