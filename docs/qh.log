@@ -1,6 +1,6 @@
-QuickHtml ..
+QuickHtml 
 ---
-date: 03/05/2018 16:12:21
+date: 15/05/2018 12:28:07
 src: E:\MVC\guide-en-ardeche.com\src
 docs: E:\MVC\guide-en-ardeche.com\docs
 ---
@@ -31,4 +31,4 @@ mkdir: /js
  copy: /js/popix.js
 write: /sitemap.md
 ---
-Site built in 0,23 seconds 
+Site built in 0,74 seconds 
