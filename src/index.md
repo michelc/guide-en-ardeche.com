@@ -9,8 +9,8 @@ Je vous propose de découvrir ma belle région, à la nature préservée et aux
 paysages magnifiques. L'Ardèche est riche d'un patrimoine remarquable, mais pas
 toujours connu du grand public. Notre département a cependant la chance de
 disposer d'un des joyaux de l'humanité, la **Grotte Chauvet**. A travers l'espace
-de restitution de La Caverne du Pont d'Arc, c'est l'occasion de donner un coup
-de projecteur à l'ensemble de la culture et du tourisme ardéchois.
+de restitution de "La Grotte Chauvet 2", c'est l'occasion de donner un coup de
+projecteur à l'ensemble de la culture et du tourisme ardéchois.
 
 * Le riche patrimoine naturel du territoire et ses sites remarquables.
 * Les villages d'Ardèche : des lieux chargés d'histoire, à visiter absolument !
@@ -100,7 +100,7 @@ passion pour mon "pays" aux travers des circuits que j'organise.
 * Vogüé, un village de caractère parmi les plus beaux de France
 * Villeneuve-de-Berg, une Bastide Royale ardéchoise
 
-Si vous avez prévu de visiter La Caverne du Pont d'Arc, je vous conseille
+Si vous avez prévu de visiter La Grotte Chauvet 2, je vous conseille
 particulièrement de compléter votre journée par une **(re)découverte des Gorges
 de l'Ardèche**. En cheminant sur la route panoramique qui les surplombe, vous
 pourrez apprécier et comprendre toute la richesse de ce qui est bien plus qu'un
@@ -109,7 +109,11 @@ simple paysage.
 Quelques liens à explorer pour continuer votre voyage en Ardèche :
 
 * [Guide Ardèche Tourisme](https://www.ardeche-guide.com/)
-* [La Caverne du Pont d'Arc](https://www.cavernedupontdarc.fr/)
+* [Émerveillés par l'Ardèche](http://www.emerveillesparlardeche.com/)
+* [La Grotte Chauvet 2](https://www.grottechauvet2ardeche.com/)
+* [Auberge du Pont d'Arc](https://www.aubergedupontdarc.com/)
+* [Musée de la Lavande](https://www.museedelalavandeardeche.com/)
+* [Domaine du Cros d'Auzon](http://www.domaine-cros-auzon.com/)
 
 </section>
 
