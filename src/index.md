@@ -66,7 +66,7 @@ Arche naturelle de 54 mètres de haut.
 ### Grotte Chauvet
 
 La plus ancienne et la plus belle grotte ornée.
-([Inventeurs, décembre 1983](https://fr-fr.facebook.com/InventeursGrotteChauvet))
+([Inventeurs, décembre 1994](https://www.flickr.com/photos/24364447@N05/15055432875))
 
   </div>
   <div class="column half">
