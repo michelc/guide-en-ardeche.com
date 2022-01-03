@@ -109,11 +109,11 @@ simple paysage.
 Quelques liens à explorer pour continuer votre voyage en Ardèche :
 
 * [Guide Ardèche Tourisme](https://www.ardeche-guide.com/)
-* [Émerveillés par l'Ardèche](http://www.emerveillesparlardeche.com/)
+* [Émerveillés par l'Ardèche](https://www.emerveillesparlardeche.com/)
 * [La Grotte Chauvet 2](https://www.grottechauvet2ardeche.com/)
 * [Auberge du Pont d'Arc](https://www.aubergedupontdarc.com/)
-* [Musée de la Lavande](https://www.museedelalavandeardeche.com/)
-* [Domaine du Cros d'Auzon](http://www.domaine-cros-auzon.com/)
+* [Maison de la Lavande](https://www.lamaisondelalavande.com/)
+* [Domaine du Cros d'Auzon](https://www.domaine-cros-auzon.com/)
 
 </section>
 
